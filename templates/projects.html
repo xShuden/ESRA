@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>{{ .title }}</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Project Name</th>
+                    <th>Platform</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{ range .projects }}
+                <tr>
+                    <td><a href="/project/{{ .id }}">{{ .name }}</a></td>
+                    <td>{{ .platform }}</td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>{{ .title }}</h1>
+
+        <p><strong>Project Name:</strong> {{ .project.Name }}</p>
+        <p><strong>Platform:</strong> {{ .project.Platform }}</p>
+        <p><strong>Created At:</strong> {{ .project.CreatedAt.Format "2006-01-02 15:04:05" }}</p>
+
+        <a href="/projects">Back to Project List</a>
+    </div>
+</body>
+
+</html>
