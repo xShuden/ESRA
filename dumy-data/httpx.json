@@ -1,0 +1,763 @@
+{
+    "timestamp": "2024-08-17T11:40:35.086295425Z",
+    "port": "443",
+    "url": "https://Intunendes3.esds.gov.sg",
+    "input": "Intunendes3.esds.gov.sg",
+    "title": "IIS Windows Server",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "13.76.194.29",
+    "path": "/",
+    "time": "1.016233481s",
+    "a": [
+        "13.76.194.29"
+    ],
+    "cname": [
+        "intunendes3-gccprod.msappproxy.net",
+        "0b11c524-9a1c-4e1b-84cb-6336aefc2243.tenant.runtime.msappproxy.net",
+        "cwap-asia2-runtime.routing.msappproxy.net",
+        "asia.proxy-1.appproxy.msidentity.com",
+        "www.tm.asia.proxy-1.appproxy.trafficmanager.net",
+        "proxy-appproxy-seas-sin01p-4.msappproxy.net"
+    ],
+    "words": 27,
+    "lines": 32,
+    "status_code": 200,
+    "content_length": 703,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53",
+        "8.8.4.4:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:35.218237122Z",
+    "port": "443",
+    "url": "https://IntuneSITNDES.support5.gov.sg",
+    "input": "IntuneSITNDES.support5.gov.sg",
+    "title": "IIS Windows Server",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "13.76.194.29",
+    "path": "/",
+    "time": "1.147431165s",
+    "a": [
+        "13.76.194.29"
+    ],
+    "cname": [
+        "intunesitndes-gccqa.msappproxy.net",
+        "e41702a7-2ff7-4cb3-960e-d32457911d18.tenant.runtime.msappproxy.net",
+        "cwap-asia2-runtime.routing.msappproxy.net",
+        "asia.proxy-1.appproxy.msidentity.com",
+        "www.tm.asia.proxy-1.appproxy.trafficmanager.net",
+        "proxy-appproxy-seas-sin01p-4.msappproxy.net"
+    ],
+    "tech": [
+        "Microsoft ASP.NET"
+    ],
+    "words": 27,
+    "lines": 32,
+    "status_code": 200,
+    "content_length": 703,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:36.247279026Z",
+    "port": "443",
+    "url": "https://design.workpal.gov.sg",
+    "input": "design.workpal.gov.sg",
+    "title": "@storybook/cli - Storybook",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "52.139.244.182",
+    "path": "/",
+    "time": "968.818534ms",
+    "a": [
+        "52.139.244.182"
+    ],
+    "words": 745,
+    "lines": 141,
+    "status_code": 200,
+    "content_length": 3710,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "127.0.0.53:53",
+        "8.8.4.4:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:36.40325803Z",
+    "cdn_name": "aws",
+    "cdn_type": "cloud",
+    "port": "443",
+    "url": "https://gather.gov.sg",
+    "input": "gather.gov.sg",
+    "title": "GatherSG",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "99.83.230.2",
+    "path": "/",
+    "time": "898.9697ms",
+    "a": [
+        "75.2.54.48",
+        "99.83.230.2"
+    ],
+    "tech": [
+        "Amazon S3",
+        "Amazon Web Services",
+        "HSTS"
+    ],
+    "words": 28,
+    "lines": 15,
+    "status_code": 200,
+    "content_length": 344,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.0.0.1:53",
+        "127.0.0.53:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:37.506746729Z",
+    "port": "443",
+    "url": "https://intunesitndes.support5.gov.sg",
+    "input": "intunesitndes.support5.gov.sg",
+    "title": "IIS Windows Server",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "13.76.194.29",
+    "path": "/",
+    "time": "1.068668531s",
+    "a": [
+        "13.76.194.29"
+    ],
+    "cname": [
+        "intunesitndes-gccqa.msappproxy.net",
+        "e41702a7-2ff7-4cb3-960e-d32457911d18.tenant.runtime.msappproxy.net",
+        "cwap-asia2-runtime.routing.msappproxy.net",
+        "asia.proxy-1.appproxy.msidentity.com",
+        "www.tm.asia.proxy-1.appproxy.trafficmanager.net",
+        "proxy-appproxy-seas-sin01p-4.msappproxy.net"
+    ],
+    "tech": [
+        "Microsoft ASP.NET"
+    ],
+    "words": 27,
+    "lines": 32,
+    "status_code": 200,
+    "content_length": 703,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53",
+        "1.0.0.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:37.617572331Z",
+    "port": "443",
+    "url": "https://gr.ras.gov.sg",
+    "input": "gr.ras.gov.sg",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "160.96.213.239",
+    "path": "/",
+    "time": "2.027132033s",
+    "a": [
+        "160.96.213.239"
+    ],
+    "aaaa": [
+        "2001:df0:314:1a8::f"
+    ],
+    "tech": [
+        "HSTS"
+    ],
+    "words": 85,
+    "lines": 7,
+    "status_code": 200,
+    "content_length": 315,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.1.1.1:53",
+        "8.8.8.8:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:38.953972805Z",
+    "cdn_name": "aws",
+    "cdn_type": "cloud",
+    "port": "443",
+    "url": "https://careers.tech.gov.sg",
+    "input": "careers.tech.gov.sg",
+    "title": "Home",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "18.141.64.255",
+    "path": "/",
+    "time": "2.208000546s",
+    "a": [
+        "18.141.64.255"
+    ],
+    "cname": [
+        "govtech.avature.net"
+    ],
+    "tech": [
+        "HSTS",
+        "jQuery",
+        "jQuery UI"
+    ],
+    "words": 249933,
+    "lines": 637,
+    "status_code": 200,
+    "content_length": 289955,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "127.0.0.53:53",
+        "1.0.0.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:42.266067586Z",
+    "cdn_name": "cloudflare",
+    "cdn_type": "waf",
+    "port": "443",
+    "url": "https://servicearizona.com",
+    "input": "servicearizona.com",
+    "title": "ServiceArizona / MVD Now",
+    "scheme": "https",
+    "webserver": "cloudflare",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "104.18.160.162",
+    "path": "/",
+    "time": "1.832126253s",
+    "a": [
+        "104.18.160.162",
+        "104.19.223.206"
+    ],
+    "aaaa": [
+        "2606:4700::6812:a0a2",
+        "2606:4700::6813:dfce"
+    ],
+    "tech": [
+        "Cloudflare",
+        "Google Analytics",
+        "HSTS",
+        "Java",
+        "Java Servlet",
+        "jQuery",
+        "jQuery CDN",
+        "jQuery UI"
+    ],
+    "words": 2366,
+    "lines": 591,
+    "status_code": 200,
+    "content_length": 47005,
+    "failed": false,
+    "cdn": true,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53",
+        "1.0.0.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:55.529048393Z",
+    "port": "443",
+    "url": "https://stg-login.singpass.gov.sg",
+    "input": "stg-login.singpass.gov.sg",
+    "location": "/spservice/?TAM_OP=login\u0026URL=%2F",
+    "scheme": "https",
+    "webserver": "nginx",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "23.36.210.185",
+    "path": "/",
+    "time": "1.229684089s",
+    "a": [
+        "23.36.210.185"
+    ],
+    "cname": [
+        "stg-login.singpass.gov.sg.edgekey.net",
+        "e3014.ksd.akamaiedge.net"
+    ],
+    "tech": [
+        "Envoy",
+        "HSTS",
+        "Nginx"
+    ],
+    "words": 105,
+    "lines": 23,
+    "status_code": 200,
+    "content_length": 594,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53",
+        "127.0.0.53:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:55.726386215Z",
+    "cdn_name": "aws",
+    "cdn_type": "cloud",
+    "port": "443",
+    "url": "https://stg.gather.gov.sg",
+    "input": "stg.gather.gov.sg",
+    "title": "GatherSG",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "75.2.38.126",
+    "path": "/",
+    "time": "820.590385ms",
+    "a": [
+        "75.2.38.126",
+        "76.223.31.10"
+    ],
+    "tech": [
+        "Amazon S3",
+        "Amazon Web Services",
+        "HSTS"
+    ],
+    "words": 28,
+    "lines": 15,
+    "status_code": 200,
+    "content_length": 344,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.0.0.1:53",
+        "1.1.1.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:56.033534318Z",
+    "cdn_name": "cloudfront",
+    "cdn_type": "cdn",
+    "port": "443",
+    "url": "https://wogaa.sg",
+    "input": "wogaa.sg",
+    "title": "WOGAA",
+    "scheme": "https",
+    "webserver": "AmazonS3",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "3.161.119.30",
+    "path": "/",
+    "time": "233.261838ms",
+    "a": [
+        "3.161.119.118",
+        "3.161.119.86",
+        "3.161.119.30",
+        "3.161.119.81"
+    ],
+    "tech": [
+        "Amazon CloudFront",
+        "Amazon S3",
+        "Amazon Web Services",
+        "HSTS"
+    ],
+    "words": 90,
+    "lines": 1,
+    "status_code": 200,
+    "content_length": 1907,
+    "failed": false,
+    "cdn": true,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.1.1.1:53",
+        "8.8.4.4:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:56.085062226Z",
+    "cdn_name": "cloudfront",
+    "cdn_type": "cdn",
+    "port": "443",
+    "url": "https://supportgowhere.life.gov.sg",
+    "input": "supportgowhere.life.gov.sg",
+    "title": "SupportGoWhere",
+    "scheme": "https",
+    "webserver": "Server",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "18.239.255.113",
+    "path": "/",
+    "time": "942.418318ms",
+    "a": [
+        "18.239.255.21",
+        "18.239.255.37",
+        "18.239.255.113",
+        "18.239.255.38"
+    ],
+    "tech": [
+        "Amazon CloudFront",
+        "Amazon Web Services",
+        "HSTS"
+    ],
+    "words": 285,
+    "lines": 57,
+    "status_code": 200,
+    "content_length": 1640,
+    "failed": false,
+    "cdn": true,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53",
+        "127.0.0.53:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:56.346375242Z",
+    "port": "443",
+    "url": "https://uat.app.workpal.gov.sg",
+    "input": "uat.app.workpal.gov.sg",
+    "title": "WorkPal",
+    "scheme": "https",
+    "webserver": "Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "52.230.60.34",
+    "path": "/",
+    "time": "846.703152ms",
+    "a": [
+        "52.230.60.34"
+    ],
+    "tech": [
+        "Azure",
+        "Bootstrap:5.1.3",
+        "HSTS",
+        "Microsoft HTTPAPI:2.0",
+        "jsDelivr"
+    ],
+    "words": 461,
+    "lines": 67,
+    "status_code": 200,
+    "content_length": 2822,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.0.0.1:53",
+        "8.8.8.8:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:56.412214251Z",
+    "port": "443",
+    "url": "https://uat.design.workpal.gov.sg",
+    "input": "uat.design.workpal.gov.sg",
+    "title": "@storybook/cli - Storybook",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "52.230.60.34",
+    "path": "/",
+    "time": "950.728072ms",
+    "a": [
+        "52.230.60.34"
+    ],
+    "words": 745,
+    "lines": 141,
+    "status_code": 200,
+    "content_length": 3710,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.1.1.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:56.700026555Z",
+    "port": "443",
+    "url": "https://status.singpass.gov.sg",
+    "input": "status.singpass.gov.sg",
+    "title": "Singpass status",
+    "scheme": "https",
+    "webserver": "openresty/1.25.3.1",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "142.132.140.101",
+    "path": "/",
+    "time": "643.194664ms",
+    "a": [
+        "142.132.140.101"
+    ],
+    "cname": [
+        "statuspage.betteruptime.com"
+    ],
+    "tech": [
+        "Amazon S3",
+        "Amazon Web Services",
+        "Google Analytics",
+        "HSTS",
+        "Nginx",
+        "OpenResty:1.25.3.1",
+        "Ruby",
+        "Ruby on Rails",
+        "Stimulus"
+    ],
+    "words": 9330,
+    "lines": 958,
+    "status_code": 200,
+    "content_length": 145467,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53",
+        "8.8.4.4:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:56.975079191Z",
+    "cdn_name": "cloudfront",
+    "cdn_type": "cdn",
+    "port": "443",
+    "url": "https://www.file.gov.sg",
+    "input": "www.file.gov.sg",
+    "title": "FileSG",
+    "scheme": "https",
+    "webserver": "Server",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "52.84.106.12",
+    "path": "/",
+    "time": "955.523723ms",
+    "a": [
+        "52.84.106.89",
+        "52.84.106.125",
+        "52.84.106.12",
+        "52.84.106.53"
+    ],
+    "cname": [
+        "dcv4knidogent.cloudfront.net"
+    ],
+    "tech": [
+        "Amazon CloudFront",
+        "Amazon Web Services",
+        "HSTS"
+    ],
+    "words": 401,
+    "lines": 47,
+    "status_code": 200,
+    "content_length": 2663,
+    "failed": false,
+    "cdn": true,
+    "knowledgebase": {
+        "PageType": "nonerror",
+        "pHash": 0
+    },
+    "resolvers": [
+        "8.8.8.8:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:57.310884327Z",
+    "port": "443",
+    "url": "https://vr.ras.gov.sg",
+    "input": "vr.ras.gov.sg",
+    "scheme": "https",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "160.96.213.238",
+    "path": "/",
+    "time": "1.635647982s",
+    "a": [
+        "160.96.213.238"
+    ],
+    "aaaa": [
+        "2001:df0:314:1a8::e"
+    ],
+    "tech": [
+        "HSTS"
+    ],
+    "words": 85,
+    "lines": 7,
+    "status_code": 200,
+    "content_length": 315,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.0.0.1:53",
+        "1.1.1.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:40:57.524966418Z",
+    "port": "443",
+    "url": "https://www.gobusiness.gov.sg",
+    "input": "www.gobusiness.gov.sg",
+    "title": "GoBusiness Singapore",
+    "scheme": "https",
+    "webserver": "keycdn",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "185.172.151.128",
+    "path": "/",
+    "time": "459.163784ms",
+    "a": [
+        "185.172.151.128"
+    ],
+    "cname": [
+        "isomergbmain-dbca.kxcdn.com",
+        "p-tris00.kxcdn.com"
+    ],
+    "tech": [
+        "Algolia",
+        "Amazon S3",
+        "Amazon Web Services",
+        "Cloudflare",
+        "Facebook Pixel:2.9.39",
+        "Google Analytics",
+        "Google Tag Manager",
+        "HSTS",
+        "Linkedin Ads",
+        "Modernizr",
+        "Netlify",
+        "Unpkg",
+        "YouTube",
+        "cdnjs",
+        "jQuery"
+    ],
+    "words": 15011,
+    "lines": 2222,
+    "status_code": 200,
+    "content_length": 68746,
+    "failed": false,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "127.0.0.53:53",
+        "1.0.0.1:53"
+    ]
+}
+{
+    "timestamp": "2024-08-17T11:41:00.103765088Z",
+    "cdn_name": "cloudfront",
+    "cdn_type": "cdn",
+    "port": "443",
+    "url": "https://www.tech.gov.sg",
+    "input": "www.tech.gov.sg",
+    "title": "Government Technology Agency of Singapore GovTech",
+    "scheme": "https",
+    "webserver": "AmazonS3",
+    "content_type": "text/html",
+    "method": "GET",
+    "host": "3.165.206.45",
+    "path": "/",
+    "time": "2.334399301s",
+    "a": [
+        "3.165.206.27",
+        "3.165.206.45",
+        "3.165.206.95",
+        "3.165.206.122"
+    ],
+    "aaaa": [
+        "2600:9000:27e9:a00:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:3200:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:3a00:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:6a00:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:8800:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:9800:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:d400:0:ad1d:cf40:93a1",
+        "2600:9000:27e9:dc00:0:ad1d:cf40:93a1"
+    ],
+    "cname": [
+        "tech-gov-sg.hostedon.isomer.gov.sg"
+    ],
+    "tech": [
+        "Algolia",
+        "Amazon CloudFront",
+        "Amazon S3",
+        "Amazon Web Services",
+        "Cloudflare",
+        "Google Analytics",
+        "Google Tag Manager",
+        "HSTS",
+        "HTTP/3",
+        "Linkedin Ads",
+        "Modernizr",
+        "cdnjs",
+        "jQuery"
+    ],
+    "words": 10978,
+    "lines": 613,
+    "status_code": 200,
+    "content_length": 50908,
+    "failed": false,
+    "cdn": true,
+    "knowledgebase": {
+        "PageType": "other",
+        "pHash": 0
+    },
+    "resolvers": [
+        "1.0.0.1:53",
+        "1.1.1.1:53"
+    ]
+}
